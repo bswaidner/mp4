@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Extract method &apos;private void tryAddPluginToMap(Map&lt;String,Plugin&gt; pluginMap, UpdateSite site)&apos; from &apos;hudson.model.UpdateCenter.getUpdates()&apos; to &apos;hudson.model.UpdateCenter&apos;&#x0A;- Original project: &apos;jenkins-core&apos;&#x0A;- Method name: &apos;tryAddPluginToMap&apos;&#x0A;- Destination type: &apos;hudson.model.UpdateCenter&apos;&#x0A;- Declared visibility: &apos;private&apos;" comments="false" description="Extract method &apos;tryAddPluginToMap&apos;" destination="0" exceptions="false" flags="786434" id="org.eclipse.jdt.ui.extract.method" input="/src\/main\/java&lt;hudson.model{UpdateCenter.java" name="tryAddPluginToMap" replace="false" selection="20543 724" stamp="1522879518794" version="1.0" visibility="2"/>
+</session>
