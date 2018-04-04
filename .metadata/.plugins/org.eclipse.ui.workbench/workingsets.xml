@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1522878961479_1" label="pom" name="pom">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/jenkins" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/jenkins-core" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/jenkins-war" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/jenkins-test-harness" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/cli" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/plugin" type="4"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1522878935228_0" label="Window Working Set" name="Aggregate for window 1522878935227"/>
+</workingSetManager>
