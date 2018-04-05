@@ -83,7 +83,10 @@ public class RunParameterDefinitionTest {
     @Test
     public void testNULLFilter() throws Exception {
 
-        FreeStyleProject project = createFreeStyleProjects();
+        FreeStyleProject project = j.createFreeStyleProject("project");
+        FreeStyleBuild successfulBuild = project.scheduleBuild2(0).get();
+
+        createFreeStyleProjects(project);
 
         FreeStyleProject paramProject = j.createFreeStyleProject("paramProject");
         ParametersDefinitionProperty pdp = 
@@ -98,29 +101,14 @@ public class RunParameterDefinitionTest {
                      build.getEnvironment(new LogTaskListener(LOGGER, Level.INFO)).get("RUN_NUMBER"));
     }
 
-	private FreeStyleProject createFreeStyleProjects() throws IOException, InterruptedException, ExecutionException {
-		FreeStyleProject project = j.createFreeStyleProject("project");
-        FreeStyleBuild successfulBuild = project.scheduleBuild2(0).get();
-
-        project.getPublishersList().replaceBy(Collections.singleton(new ResultPublisher(Result.UNSTABLE)));
-        FreeStyleBuild unstableBuild = project.scheduleBuild2(0).get();
-
-        project.getPublishersList().replaceBy(Collections.singleton(new ResultPublisher(Result.FAILURE)));
-        FreeStyleBuild failedBuild = project.scheduleBuild2(0).get();
-
-        project.getPublishersList().replaceBy(Collections.singleton(new ResultPublisher(Result.NOT_BUILT)));
-        FreeStyleBuild notBuiltBuild = project.scheduleBuild2(0).get();
-        
-        project.getPublishersList().replaceBy(Collections.singleton(new ResultPublisher(Result.ABORTED)));
-        FreeStyleBuild abortedBuild = project.scheduleBuild2(0).get();
-		return project;
-	}
-
     
     @Test
     public void testALLFilter() throws Exception {
 
-        FreeStyleProject project = createFreeStyleProjects();
+        FreeStyleProject project = j.createFreeStyleProject("project");
+        FreeStyleBuild successfulBuild = project.scheduleBuild2(0).get();
+
+        createFreeStyleProjects(project);
 
         FreeStyleProject paramProject = j.createFreeStyleProject("paramProject");
         ParametersDefinitionProperty pdp = 
@@ -135,13 +123,28 @@ public class RunParameterDefinitionTest {
                      build.getEnvironment(new LogTaskListener(LOGGER, Level.INFO)).get("RUN_NUMBER"));
     }
 
+	private void createFreeStyleProjects(FreeStyleProject project)
+			throws IOException, InterruptedException, ExecutionException {
+		project.getPublishersList().replaceBy(Collections.singleton(new ResultPublisher(Result.UNSTABLE)));
+        FreeStyleBuild unstableBuild = project.scheduleBuild2(0).get();
+
+        project.getPublishersList().replaceBy(Collections.singleton(new ResultPublisher(Result.FAILURE)));
+        FreeStyleBuild failedBuild = project.scheduleBuild2(0).get();
+
+        project.getPublishersList().replaceBy(Collections.singleton(new ResultPublisher(Result.NOT_BUILT)));
+        FreeStyleBuild notBuiltBuild = project.scheduleBuild2(0).get();
+        
+        project.getPublishersList().replaceBy(Collections.singleton(new ResultPublisher(Result.ABORTED)));
+        FreeStyleBuild abortedBuild = project.scheduleBuild2(0).get();
+	}
+
     @Test
     public void testCOMPLETEDFilter() throws Exception {
 
         FreeStyleProject project = j.createFreeStyleProject("project");
         FreeStyleBuild successfulBuild = project.scheduleBuild2(0).get();
 
-        FreeStyleProject project = createFreeStyleProjects();
+        createFreeStyleProjects(project);
 
         FreeStyleProject paramProject = j.createFreeStyleProject("paramProject");
         ParametersDefinitionProperty pdp = 
@@ -162,7 +165,7 @@ public class RunParameterDefinitionTest {
         FreeStyleProject project = j.createFreeStyleProject("project");
         FreeStyleBuild successfulBuild = project.scheduleBuild2(0).get();
 
-        FreeStyleProject project = createFreeStyleProjects();
+        createFreeStyleProjects(project);
 
         FreeStyleProject paramProject = j.createFreeStyleProject("paramProject");
         ParametersDefinitionProperty pdp = 
@@ -184,17 +187,7 @@ public class RunParameterDefinitionTest {
         FreeStyleProject project = j.createFreeStyleProject("project");
         FreeStyleBuild successfulBuild = project.scheduleBuild2(0).get();
 
-        project.getPublishersList().replaceBy(Collections.singleton(new ResultPublisher(Result.UNSTABLE)));
-        FreeStyleBuild unstableBuild = project.scheduleBuild2(0).get();
-
-        project.getPublishersList().replaceBy(Collections.singleton(new ResultPublisher(Result.FAILURE)));
-        FreeStyleBuild failedBuild = project.scheduleBuild2(0).get();
-
-        project.getPublishersList().replaceBy(Collections.singleton(new ResultPublisher(Result.NOT_BUILT)));
-        FreeStyleBuild notBuiltBuild = project.scheduleBuild2(0).get();
-        
-        project.getPublishersList().replaceBy(Collections.singleton(new ResultPublisher(Result.ABORTED)));
-        FreeStyleBuild abortedBuild = project.scheduleBuild2(0).get();
+        createFreeStyleProjects(project);
 
         FreeStyleProject paramProject = j.createFreeStyleProject("paramProject");
         ParametersDefinitionProperty pdp = 
