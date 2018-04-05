@@ -84,7 +84,6 @@ public class RunParameterDefinitionTest {
     public void testNULLFilter() throws Exception {
 
         FreeStyleProject project = j.createFreeStyleProject("project");
-        FreeStyleBuild successfulBuild = project.scheduleBuild2(0).get();
 
         createFreeStyleProjects(project);
 
@@ -106,7 +105,6 @@ public class RunParameterDefinitionTest {
     public void testALLFilter() throws Exception {
 
         FreeStyleProject project = j.createFreeStyleProject("project");
-        FreeStyleBuild successfulBuild = project.scheduleBuild2(0).get();
 
         createFreeStyleProjects(project);
 
@@ -125,6 +123,8 @@ public class RunParameterDefinitionTest {
 
 	private void createFreeStyleProjects(FreeStyleProject project)
 			throws IOException, InterruptedException, ExecutionException {
+		FreeStyleBuild successfulBuild = project.scheduleBuild2(0).get();
+		
 		project.getPublishersList().replaceBy(Collections.singleton(new ResultPublisher(Result.UNSTABLE)));
         FreeStyleBuild unstableBuild = project.scheduleBuild2(0).get();
 
@@ -142,9 +142,9 @@ public class RunParameterDefinitionTest {
     public void testCOMPLETEDFilter() throws Exception {
 
         FreeStyleProject project = j.createFreeStyleProject("project");
-        FreeStyleBuild successfulBuild = project.scheduleBuild2(0).get();
 
         createFreeStyleProjects(project);
+        FreeStyleBuild abortedBuild = project.scheduleBuild2(0).get();
 
         FreeStyleProject paramProject = j.createFreeStyleProject("paramProject");
         ParametersDefinitionProperty pdp = 
@@ -163,9 +163,9 @@ public class RunParameterDefinitionTest {
     public void testSUCCESSFULFilter() throws Exception {
 
         FreeStyleProject project = j.createFreeStyleProject("project");
-        FreeStyleBuild successfulBuild = project.scheduleBuild2(0).get();
 
         createFreeStyleProjects(project);
+        FreeStyleBuild unstableBuild = project.scheduleBuild2(0).get();
 
         FreeStyleProject paramProject = j.createFreeStyleProject("paramProject");
         ParametersDefinitionProperty pdp = 
