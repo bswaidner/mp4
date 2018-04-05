@@ -1,6 +1,30 @@
-Question 3:
+Q
+uestion 3:
 No, it could be abstracted to another class, since it has nothing to do with Nodes, and then could be called from that class. Potentially the jenkins.model.Jenkins. 
 
 Question 4: 
 It can be redued into a for loop running 4 times.
 
+Question 6:
+We will use the refactor> extract method function in Eclipse.
+We refactored code in the RunParameterDefinitionTest file. 
+"
+	private FreeStyleProject createFreeStyleProjects() throws IOException, InterruptedException, ExecutionException {
+		FreeStyleProject project = j.createFreeStyleProject("project");
+        FreeStyleBuild successfulBuild = project.scheduleBuild2(0).get();
+
+        project.getPublishersList().replaceBy(Collections.singleton(new ResultPublisher(Result.UNSTABLE)));
+        FreeStyleBuild unstableBuild = project.scheduleBuild2(0).get();
+
+        project.getPublishersList().replaceBy(Collections.singleton(new ResultPublisher(Result.FAILURE)));
+        FreeStyleBuild failedBuild = project.scheduleBuild2(0).get();
+
+        project.getPublishersList().replaceBy(Collections.singleton(new ResultPublisher(Result.NOT_BUILT)));
+        FreeStyleBuild notBuiltBuild = project.scheduleBuild2(0).get();
+        
+        project.getPublishersList().replaceBy(Collections.singleton(new ResultPublisher(Result.ABORTED)));
+        FreeStyleBuild abortedBuild = project.scheduleBuild2(0).get();
+		return project;
+	}
+
+"

@@ -842,3 +842,327 @@ org.eclipse.core.runtime.CoreException: Launch configuration IDStrategyTest refe
 2018-04-04 20:22:19,923 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2018-04-04 20:22:19,924 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2018-04-04 20:22:19,925 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2018-04-04 20:24:59,808 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /Users/BlakeSwaidner/Desktop/mp4/jenkins/cli/target/generated-sources/localizer added.
+2018-04-04 20:24:59,922 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-04 20:24:59,925 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7 resources
+2018-04-04 20:24:59,937 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-04-04 20:24:59,961 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-04 20:24:59,962 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2018-04-04 20:25:00,358 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /Users/BlakeSwaidner/Desktop/mp4/jenkins/core/target/generated-sources/antlr added.
+2018-04-04 20:25:00,358 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /Users/BlakeSwaidner/Desktop/mp4/jenkins/core/target/generated-sources/localizer added.
+2018-04-04 20:25:00,359 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /Users/BlakeSwaidner/Desktop/mp4/jenkins/core/target/generated-sources/taglib-interface added.
+2018-04-04 20:25:00,360 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-04 20:25:00,583 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7931 resources
+2018-04-04 20:25:00,865 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2018-04-04 20:25:00,872 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-04 20:25:00,873 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2018-04-04 20:25:09,845 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /Users/BlakeSwaidner/Desktop/mp4/jenkins/core/target/generated-sources/antlr added.
+2018-04-04 20:25:09,845 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /Users/BlakeSwaidner/Desktop/mp4/jenkins/core/target/generated-sources/localizer added.
+2018-04-04 20:25:09,845 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /Users/BlakeSwaidner/Desktop/mp4/jenkins/core/target/generated-sources/taglib-interface added.
+2018-04-04 20:25:09,846 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-04 20:25:09,846 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-04 20:25:09,846 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-04 20:25:09,847 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-04 20:25:09,848 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2018-04-04 20:28:32,452 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /Users/BlakeSwaidner/Desktop/mp4/jenkins/core/target/generated-sources/antlr added.
+2018-04-04 20:28:32,452 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /Users/BlakeSwaidner/Desktop/mp4/jenkins/core/target/generated-sources/localizer added.
+2018-04-04 20:28:32,452 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /Users/BlakeSwaidner/Desktop/mp4/jenkins/core/target/generated-sources/taglib-interface added.
+2018-04-04 20:28:32,453 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-04 20:28:32,453 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-04 20:28:32,453 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-04 20:28:32,454 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-04 20:28:32,455 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2018-04-04 20:28:33,492 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /Users/BlakeSwaidner/Desktop/mp4/jenkins/core/target/generated-sources/antlr added.
+2018-04-04 20:28:33,492 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /Users/BlakeSwaidner/Desktop/mp4/jenkins/core/target/generated-sources/localizer added.
+2018-04-04 20:28:33,492 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /Users/BlakeSwaidner/Desktop/mp4/jenkins/core/target/generated-sources/taglib-interface added.
+2018-04-04 20:28:33,494 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-04 20:28:33,649 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7931 resources
+2018-04-04 20:28:33,788 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2018-04-04 20:28:33,792 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-04 20:28:33,792 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-04 20:31:42,764 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /Users/BlakeSwaidner/Desktop/mp4/jenkins/core/target/generated-sources/antlr added.
+2018-04-04 20:31:42,764 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /Users/BlakeSwaidner/Desktop/mp4/jenkins/core/target/generated-sources/localizer added.
+2018-04-04 20:31:42,764 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /Users/BlakeSwaidner/Desktop/mp4/jenkins/core/target/generated-sources/taglib-interface added.
+2018-04-04 20:31:42,765 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-04 20:31:42,765 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-04 20:31:42,765 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-04 20:31:42,766 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-04 20:31:42,767 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2018-04-04 20:31:43,799 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /Users/BlakeSwaidner/Desktop/mp4/jenkins/core/target/generated-sources/antlr added.
+2018-04-04 20:31:43,800 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /Users/BlakeSwaidner/Desktop/mp4/jenkins/core/target/generated-sources/localizer added.
+2018-04-04 20:31:43,800 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /Users/BlakeSwaidner/Desktop/mp4/jenkins/core/target/generated-sources/taglib-interface added.
+2018-04-04 20:31:43,801 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-04 20:31:43,981 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7931 resources
+2018-04-04 20:31:44,139 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2018-04-04 20:31:44,142 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-04 20:31:44,142 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-04 20:31:54,483 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /Users/BlakeSwaidner/Desktop/mp4/jenkins/core/target/generated-sources/antlr added.
+2018-04-04 20:31:54,483 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /Users/BlakeSwaidner/Desktop/mp4/jenkins/core/target/generated-sources/localizer added.
+2018-04-04 20:31:54,483 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /Users/BlakeSwaidner/Desktop/mp4/jenkins/core/target/generated-sources/taglib-interface added.
+2018-04-04 20:31:54,486 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-04 20:31:54,799 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7931 resources
+2018-04-04 20:31:55,139 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2018-04-04 20:31:55,141 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-04 20:31:55,142 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-04 20:33:59,877 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /Users/BlakeSwaidner/Desktop/mp4/jenkins/core/target/generated-sources/antlr added.
+2018-04-04 20:33:59,877 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /Users/BlakeSwaidner/Desktop/mp4/jenkins/core/target/generated-sources/localizer added.
+2018-04-04 20:33:59,877 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /Users/BlakeSwaidner/Desktop/mp4/jenkins/core/target/generated-sources/taglib-interface added.
+2018-04-04 20:33:59,878 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-04 20:33:59,878 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-04 20:33:59,878 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-04 20:33:59,879 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-04 20:33:59,880 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2018-04-04 20:34:00,932 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /Users/BlakeSwaidner/Desktop/mp4/jenkins/core/target/generated-sources/antlr added.
+2018-04-04 20:34:00,932 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /Users/BlakeSwaidner/Desktop/mp4/jenkins/core/target/generated-sources/localizer added.
+2018-04-04 20:34:00,932 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /Users/BlakeSwaidner/Desktop/mp4/jenkins/core/target/generated-sources/taglib-interface added.
+2018-04-04 20:34:00,934 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-04 20:34:01,088 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7931 resources
+2018-04-04 20:34:01,224 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2018-04-04 20:34:01,225 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-04 20:34:01,225 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-04 20:38:55,122 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /Users/BlakeSwaidner/Desktop/mp4/jenkins/core/target/generated-sources/antlr added.
+2018-04-04 20:38:55,122 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /Users/BlakeSwaidner/Desktop/mp4/jenkins/core/target/generated-sources/localizer added.
+2018-04-04 20:38:55,122 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /Users/BlakeSwaidner/Desktop/mp4/jenkins/core/target/generated-sources/taglib-interface added.
+2018-04-04 20:38:55,123 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-04 20:38:55,124 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-04 20:38:55,124 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-04 20:38:55,125 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-04 20:38:55,125 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2018-04-04 20:38:56,174 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /Users/BlakeSwaidner/Desktop/mp4/jenkins/core/target/generated-sources/antlr added.
+2018-04-04 20:38:56,175 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /Users/BlakeSwaidner/Desktop/mp4/jenkins/core/target/generated-sources/localizer added.
+2018-04-04 20:38:56,175 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /Users/BlakeSwaidner/Desktop/mp4/jenkins/core/target/generated-sources/taglib-interface added.
+2018-04-04 20:38:56,175 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-04 20:38:56,365 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7931 resources
+2018-04-04 20:38:56,500 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2018-04-04 20:38:56,502 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-04 20:38:56,503 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-04 20:41:54,507 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /Users/BlakeSwaidner/Desktop/mp4/jenkins/core/target/generated-sources/antlr added.
+2018-04-04 20:41:54,508 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /Users/BlakeSwaidner/Desktop/mp4/jenkins/core/target/generated-sources/localizer added.
+2018-04-04 20:41:54,508 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /Users/BlakeSwaidner/Desktop/mp4/jenkins/core/target/generated-sources/taglib-interface added.
+2018-04-04 20:41:54,509 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-04 20:41:54,509 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-04 20:41:54,510 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-04 20:41:54,511 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-04 20:41:54,512 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2018-04-04 20:41:55,543 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /Users/BlakeSwaidner/Desktop/mp4/jenkins/core/target/generated-sources/antlr added.
+2018-04-04 20:41:55,543 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /Users/BlakeSwaidner/Desktop/mp4/jenkins/core/target/generated-sources/localizer added.
+2018-04-04 20:41:55,543 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /Users/BlakeSwaidner/Desktop/mp4/jenkins/core/target/generated-sources/taglib-interface added.
+2018-04-04 20:41:55,544 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-04 20:41:55,676 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7931 resources
+2018-04-04 20:41:55,816 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2018-04-04 20:41:55,818 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-04 20:41:55,818 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-04 20:42:43,865 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /Users/BlakeSwaidner/Desktop/mp4/jenkins/core/target/generated-sources/antlr added.
+2018-04-04 20:42:43,865 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /Users/BlakeSwaidner/Desktop/mp4/jenkins/core/target/generated-sources/localizer added.
+2018-04-04 20:42:43,865 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /Users/BlakeSwaidner/Desktop/mp4/jenkins/core/target/generated-sources/taglib-interface added.
+2018-04-04 20:42:43,866 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-04 20:42:43,867 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-04 20:42:43,867 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-04 20:42:43,868 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-04 20:42:43,870 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2018-04-04 20:42:44,910 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /Users/BlakeSwaidner/Desktop/mp4/jenkins/core/target/generated-sources/antlr added.
+2018-04-04 20:42:44,911 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /Users/BlakeSwaidner/Desktop/mp4/jenkins/core/target/generated-sources/localizer added.
+2018-04-04 20:42:44,911 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /Users/BlakeSwaidner/Desktop/mp4/jenkins/core/target/generated-sources/taglib-interface added.
+2018-04-04 20:42:44,912 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-04 20:42:45,203 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7931 resources
+2018-04-04 20:42:45,636 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2018-04-04 20:42:45,638 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-04 20:42:45,638 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-04 20:43:18,280 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /Users/BlakeSwaidner/Desktop/mp4/jenkins/core/target/generated-sources/antlr added.
+2018-04-04 20:43:18,280 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /Users/BlakeSwaidner/Desktop/mp4/jenkins/core/target/generated-sources/localizer added.
+2018-04-04 20:43:18,280 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /Users/BlakeSwaidner/Desktop/mp4/jenkins/core/target/generated-sources/taglib-interface added.
+2018-04-04 20:43:18,282 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-04 20:43:18,282 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-04 20:43:18,282 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-04 20:43:18,284 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-04 20:43:18,285 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2018-04-04 20:44:24,648 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /Users/BlakeSwaidner/Desktop/mp4/jenkins/core/target/generated-sources/antlr added.
+2018-04-04 20:44:24,648 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /Users/BlakeSwaidner/Desktop/mp4/jenkins/core/target/generated-sources/localizer added.
+2018-04-04 20:44:24,648 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /Users/BlakeSwaidner/Desktop/mp4/jenkins/core/target/generated-sources/taglib-interface added.
+2018-04-04 20:44:24,650 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-04 20:44:24,650 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-04 20:44:24,650 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-04 20:44:24,651 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-04 20:44:24,653 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2018-04-04 20:44:25,679 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /Users/BlakeSwaidner/Desktop/mp4/jenkins/core/target/generated-sources/antlr added.
+2018-04-04 20:44:25,679 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /Users/BlakeSwaidner/Desktop/mp4/jenkins/core/target/generated-sources/localizer added.
+2018-04-04 20:44:25,679 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /Users/BlakeSwaidner/Desktop/mp4/jenkins/core/target/generated-sources/taglib-interface added.
+2018-04-04 20:44:25,680 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-04 20:44:25,813 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7931 resources
+2018-04-04 20:44:25,952 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2018-04-04 20:44:25,954 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-04 20:44:25,954 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-04 20:45:49,830 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /Users/BlakeSwaidner/Desktop/mp4/jenkins/core/target/generated-sources/antlr added.
+2018-04-04 20:45:49,830 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /Users/BlakeSwaidner/Desktop/mp4/jenkins/core/target/generated-sources/localizer added.
+2018-04-04 20:45:49,830 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /Users/BlakeSwaidner/Desktop/mp4/jenkins/core/target/generated-sources/taglib-interface added.
+2018-04-04 20:45:49,831 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-04 20:45:49,831 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-04 20:45:49,831 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-04 20:45:49,831 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-04 20:45:49,832 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2018-04-04 20:45:50,860 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /Users/BlakeSwaidner/Desktop/mp4/jenkins/core/target/generated-sources/antlr added.
+2018-04-04 20:45:50,860 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /Users/BlakeSwaidner/Desktop/mp4/jenkins/core/target/generated-sources/localizer added.
+2018-04-04 20:45:50,860 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /Users/BlakeSwaidner/Desktop/mp4/jenkins/core/target/generated-sources/taglib-interface added.
+2018-04-04 20:45:50,862 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-04 20:45:50,989 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7931 resources
+2018-04-04 20:45:51,143 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2018-04-04 20:45:51,145 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-04 20:45:51,145 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-04 20:48:20,853 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /Users/BlakeSwaidner/Desktop/mp4/jenkins/core/target/generated-sources/antlr added.
+2018-04-04 20:48:20,853 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /Users/BlakeSwaidner/Desktop/mp4/jenkins/core/target/generated-sources/localizer added.
+2018-04-04 20:48:20,853 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /Users/BlakeSwaidner/Desktop/mp4/jenkins/core/target/generated-sources/taglib-interface added.
+2018-04-04 20:48:20,854 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-04 20:48:20,854 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-04 20:48:20,854 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-04 20:48:20,856 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-04 20:48:20,857 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2018-04-04 20:48:21,911 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /Users/BlakeSwaidner/Desktop/mp4/jenkins/core/target/generated-sources/antlr added.
+2018-04-04 20:48:21,911 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /Users/BlakeSwaidner/Desktop/mp4/jenkins/core/target/generated-sources/localizer added.
+2018-04-04 20:48:21,911 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /Users/BlakeSwaidner/Desktop/mp4/jenkins/core/target/generated-sources/taglib-interface added.
+2018-04-04 20:48:21,913 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-04 20:48:22,162 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7931 resources
+2018-04-04 20:48:22,400 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2018-04-04 20:48:22,405 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-04 20:48:22,405 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-04 20:50:32,586 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /Users/BlakeSwaidner/Desktop/mp4/jenkins/core/target/generated-sources/antlr added.
+2018-04-04 20:50:32,586 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /Users/BlakeSwaidner/Desktop/mp4/jenkins/core/target/generated-sources/localizer added.
+2018-04-04 20:50:32,586 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /Users/BlakeSwaidner/Desktop/mp4/jenkins/core/target/generated-sources/taglib-interface added.
+2018-04-04 20:50:32,587 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-04 20:50:32,588 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-04 20:50:32,588 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-04 20:50:32,589 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-04 20:50:32,590 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2018-04-04 20:50:33,619 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /Users/BlakeSwaidner/Desktop/mp4/jenkins/core/target/generated-sources/antlr added.
+2018-04-04 20:50:33,619 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /Users/BlakeSwaidner/Desktop/mp4/jenkins/core/target/generated-sources/localizer added.
+2018-04-04 20:50:33,619 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /Users/BlakeSwaidner/Desktop/mp4/jenkins/core/target/generated-sources/taglib-interface added.
+2018-04-04 20:50:33,620 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-04 20:50:33,748 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7931 resources
+2018-04-04 20:50:33,883 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2018-04-04 20:50:33,886 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-04 20:50:33,886 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-04 20:51:54,814 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /Users/BlakeSwaidner/Desktop/mp4/jenkins/cli/target/generated-sources/localizer added.
+2018-04-04 20:51:54,815 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-04 20:51:54,816 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7 resources
+2018-04-04 20:51:54,817 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-04-04 20:51:54,818 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-04 20:51:54,819 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2018-04-04 20:51:55,161 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /Users/BlakeSwaidner/Desktop/mp4/jenkins/core/target/generated-sources/antlr added.
+2018-04-04 20:51:55,162 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /Users/BlakeSwaidner/Desktop/mp4/jenkins/core/target/generated-sources/localizer added.
+2018-04-04 20:51:55,162 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /Users/BlakeSwaidner/Desktop/mp4/jenkins/core/target/generated-sources/taglib-interface added.
+2018-04-04 20:51:55,163 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-04 20:51:55,527 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7931 resources
+2018-04-04 20:51:55,704 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2018-04-04 20:51:55,716 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-04 20:51:55,723 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2018-04-04 20:51:57,231 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /Users/BlakeSwaidner/Desktop/mp4/jenkins/war/target/generated-sources/localizer added.
+2018-04-04 20:51:57,232 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-04 20:51:57,232 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/BlakeSwaidner/Desktop/mp4/jenkins/war/src/main/resources
+2018-04-04 20:51:57,232 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/BlakeSwaidner/Desktop/mp4/jenkins/war/src/filter/resources
+2018-04-04 20:51:57,233 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-04 20:51:57,233 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/BlakeSwaidner/Desktop/mp4/jenkins/war/src/test/resources
+2018-04-04 20:51:57,272 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /Users/BlakeSwaidner/Desktop/mp4/jenkins/test/target/generated-sources/localizer added.
+2018-04-04 20:51:57,274 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-04 20:51:57,276 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 22 resources
+2018-04-04 20:51:57,277 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/BlakeSwaidner/Desktop/mp4/jenkins/test/src/filter/resources
+2018-04-04 20:51:57,278 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-04 20:51:57,288 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 108 resources
+2018-04-04 20:55:37,268 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /Users/BlakeSwaidner/Desktop/mp4/jenkins/core/target/generated-sources/antlr added.
+2018-04-04 20:55:37,268 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /Users/BlakeSwaidner/Desktop/mp4/jenkins/core/target/generated-sources/localizer added.
+2018-04-04 20:55:37,268 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /Users/BlakeSwaidner/Desktop/mp4/jenkins/core/target/generated-sources/taglib-interface added.
+2018-04-04 20:55:37,269 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-04 20:55:37,482 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7931 resources
+2018-04-04 20:55:42,762 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2018-04-04 20:55:42,764 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-04 20:55:42,765 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2018-04-04 20:55:45,917 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /Users/BlakeSwaidner/Desktop/mp4/jenkins/test/target/generated-sources/localizer added.
+2018-04-04 20:55:45,918 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-04 20:55:45,920 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 22 resources
+2018-04-04 20:55:45,920 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/BlakeSwaidner/Desktop/mp4/jenkins/test/src/filter/resources
+2018-04-04 20:55:45,921 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-04 20:55:45,930 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 108 resources
+2018-04-04 20:57:59,217 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /Users/BlakeSwaidner/Desktop/mp4/jenkins/cli/target/generated-sources/localizer added.
+2018-04-04 20:57:59,310 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-04 20:57:59,312 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7 resources
+2018-04-04 20:57:59,316 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-04-04 20:57:59,332 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-04 20:57:59,332 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2018-04-04 20:57:59,621 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /Users/BlakeSwaidner/Desktop/mp4/jenkins/core/target/generated-sources/antlr added.
+2018-04-04 20:57:59,621 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /Users/BlakeSwaidner/Desktop/mp4/jenkins/core/target/generated-sources/localizer added.
+2018-04-04 20:57:59,621 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /Users/BlakeSwaidner/Desktop/mp4/jenkins/core/target/generated-sources/taglib-interface added.
+2018-04-04 20:57:59,622 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-04 20:57:59,879 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7931 resources
+2018-04-04 20:58:00,095 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2018-04-04 20:58:00,096 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-04 20:58:00,097 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2018-04-04 20:58:08,158 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /Users/BlakeSwaidner/Desktop/mp4/jenkins/core/target/generated-sources/antlr added.
+2018-04-04 20:58:08,158 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /Users/BlakeSwaidner/Desktop/mp4/jenkins/core/target/generated-sources/localizer added.
+2018-04-04 20:58:08,158 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /Users/BlakeSwaidner/Desktop/mp4/jenkins/core/target/generated-sources/taglib-interface added.
+2018-04-04 20:58:08,159 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-04 20:58:08,159 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-04 20:58:08,159 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-04 20:58:08,160 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-04 20:58:08,161 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2018-04-04 20:59:44,108 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /Users/BlakeSwaidner/Desktop/mp4/jenkins/cli/target/generated-sources/localizer added.
+2018-04-04 20:59:44,115 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-04 20:59:44,123 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7 resources
+2018-04-04 20:59:44,124 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-04-04 20:59:44,127 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-04 20:59:44,127 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-04 21:00:01,101 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /Users/BlakeSwaidner/Desktop/mp4/jenkins/cli/target/generated-sources/localizer added.
+2018-04-04 21:00:01,102 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-04 21:00:01,103 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7 resources
+2018-04-04 21:00:01,104 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-04-04 21:00:01,106 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-04 21:00:01,106 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-04 21:03:25,182 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /Users/BlakeSwaidner/Desktop/mp4/jenkins/cli/target/generated-sources/localizer added.
+2018-04-04 21:03:25,184 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-04 21:03:25,185 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7 resources
+2018-04-04 21:03:25,186 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-04-04 21:03:25,188 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-04 21:03:25,189 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2018-04-04 21:03:25,257 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /Users/BlakeSwaidner/Desktop/mp4/jenkins/core/target/generated-sources/antlr added.
+2018-04-04 21:03:25,257 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /Users/BlakeSwaidner/Desktop/mp4/jenkins/core/target/generated-sources/localizer added.
+2018-04-04 21:03:25,257 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /Users/BlakeSwaidner/Desktop/mp4/jenkins/core/target/generated-sources/taglib-interface added.
+2018-04-04 21:03:25,258 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-04 21:03:25,401 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7931 resources
+2018-04-04 21:03:25,544 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2018-04-04 21:03:25,545 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-04 21:03:25,546 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-04 21:15:54,652 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /Users/BlakeSwaidner/Desktop/mp4/jenkins/cli/target/generated-sources/localizer added.
+2018-04-04 21:15:54,654 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-04 21:15:54,656 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7 resources
+2018-04-04 21:15:54,657 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-04-04 21:15:54,659 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-04 21:15:54,663 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2018-04-04 21:15:55,443 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /Users/BlakeSwaidner/Desktop/mp4/jenkins/core/target/generated-sources/antlr added.
+2018-04-04 21:15:55,444 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /Users/BlakeSwaidner/Desktop/mp4/jenkins/core/target/generated-sources/localizer added.
+2018-04-04 21:15:55,444 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /Users/BlakeSwaidner/Desktop/mp4/jenkins/core/target/generated-sources/taglib-interface added.
+2018-04-04 21:15:55,445 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-04 21:15:55,959 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7931 resources
+2018-04-04 21:15:56,398 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2018-04-04 21:15:56,401 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-04 21:15:56,403 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2018-04-04 21:15:59,003 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /Users/BlakeSwaidner/Desktop/mp4/jenkins/war/target/generated-sources/localizer added.
+2018-04-04 21:15:59,004 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-04 21:15:59,004 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/BlakeSwaidner/Desktop/mp4/jenkins/war/src/main/resources
+2018-04-04 21:15:59,005 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/BlakeSwaidner/Desktop/mp4/jenkins/war/src/filter/resources
+2018-04-04 21:15:59,007 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-04 21:15:59,007 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/BlakeSwaidner/Desktop/mp4/jenkins/war/src/test/resources
+2018-04-04 21:15:59,101 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /Users/BlakeSwaidner/Desktop/mp4/jenkins/test/target/generated-sources/localizer added.
+2018-04-04 21:15:59,102 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-04 21:15:59,104 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 22 resources
+2018-04-04 21:15:59,105 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/BlakeSwaidner/Desktop/mp4/jenkins/test/src/filter/resources
+2018-04-04 21:15:59,106 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-04 21:15:59,128 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 108 resources
+2018-04-04 21:25:54,130 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /Users/BlakeSwaidner/Desktop/mp4/jenkins/test/target/generated-sources/localizer added.
+2018-04-04 21:25:54,134 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-04 21:25:54,137 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-04 21:25:54,137 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/BlakeSwaidner/Desktop/mp4/jenkins/test/src/filter/resources
+2018-04-04 21:25:54,140 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-04 21:25:54,167 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 108 resources
+2018-04-04 21:26:40,814 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /Users/BlakeSwaidner/Desktop/mp4/jenkins/test/target/generated-sources/localizer added.
+2018-04-04 21:26:40,829 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-04 21:26:40,829 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-04 21:26:40,829 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/BlakeSwaidner/Desktop/mp4/jenkins/test/src/filter/resources
+2018-04-04 21:26:40,830 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-04 21:26:40,845 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 108 resources
