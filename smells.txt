@@ -1,2 +1,6 @@
 Question 3:
 No, it could be abstracted to another class, since it has nothing to do with Nodes, and then could be called from that class. Potentially the jenkins.model.Jenkins. 
+
+Question 4: 
+It can be redued into a for loop running 4 times.
+

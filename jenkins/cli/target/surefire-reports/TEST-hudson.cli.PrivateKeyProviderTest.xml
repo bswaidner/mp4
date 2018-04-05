@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="hudson.cli.PrivateKeyProviderTest" time="0.246" tests="2" errors="0" skipped="0" failures="0">
+<testsuite name="hudson.cli.PrivateKeyProviderTest" time="0.261" tests="2" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="sun.boot.library.path" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/jre/lib"/>
@@ -63,6 +63,6 @@
     <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="sun.cpu.isalist" value=""/>
   </properties>
-  <testcase name="useDefaultKeyLocations" classname="hudson.cli.PrivateKeyProviderTest" time="0.234"/>
-  <testcase name="specifyKeysExplicitly" classname="hudson.cli.PrivateKeyProviderTest" time="0.012"/>
+  <testcase name="specifyKeysExplicitly" classname="hudson.cli.PrivateKeyProviderTest" time="0.253"/>
+  <testcase name="useDefaultKeyLocations" classname="hudson.cli.PrivateKeyProviderTest" time="0.008"/>
 </testsuite>

@@ -151,3 +151,694 @@
 2018-04-04 18:16:35,499 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
 2018-04-04 18:16:35,502 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2018-04-04 18:16:35,502 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-04 18:23:23,905 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-04 18:23:23,906 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-04 18:23:23,906 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-04 18:23:23,907 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-04 18:23:23,907 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-04 18:25:40,124 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-04 18:25:40,124 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-04 18:25:40,124 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-04 18:25:40,125 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-04 18:25:40,125 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-04 19:32:59,693 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-04 19:32:59,694 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-04 19:32:59,694 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-04 19:32:59,695 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-04 19:32:59,697 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2018-04-04 19:34:36,973 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-04 19:34:36,973 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-04 19:34:36,973 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-04 19:34:36,974 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-04 19:34:36,975 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2018-04-04 19:39:49,614 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-04 19:39:49,615 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-04 19:39:49,615 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-04 19:39:49,617 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-04 19:39:49,617 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-04 19:41:55,791 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-04 19:41:55,967 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7931 resources
+2018-04-04 19:41:56,161 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2018-04-04 19:41:56,164 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-04 19:41:56,164 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-04 19:42:16,486 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-04 19:42:16,629 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7931 resources
+2018-04-04 19:42:16,763 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2018-04-04 19:42:16,766 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-04 19:42:16,766 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-04 19:42:43,414 [Worker-28] ERROR o.e.m.e.x.i.MarkerLocationService - Error checking for schema
+java.lang.NullPointerException: null
+	at org.eclipse.m2e.editor.xml.internal.MarkerLocationService.checkForSchema(MarkerLocationService.java:258) [org.eclipse.m2e.editor.xml_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.editor.xml.internal.MarkerLocationService.addEditorHintMarkers(MarkerLocationService.java:240) [org.eclipse.m2e.editor.xml_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.markers.MarkerUtils.addEditorHintMarkers(MarkerUtils.java:66) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager$4.call(ProjectRegistryManager.java:708) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager$4.call(ProjectRegistryManager.java:1) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.execute(ProjectRegistryManager.java:967) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.readMavenProjectFacade(ProjectRegistryManager.java:699) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:475) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:351) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1$1.call(ProjectRegistryRefreshJob.java:89) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1$1.call(ProjectRegistryRefreshJob.java:1) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1351) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:87) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:1) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1355) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:81) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56) [org.eclipse.core.jobs_3.9.2.v20171030-1027.jar:na]
+2018-04-04 19:42:43,417 [Worker-28] ERROR o.e.m.e.x.i.MarkerLocationService - Error checking for warnings
+java.lang.NullPointerException: null
+	at org.eclipse.m2e.editor.xml.internal.MarkerLocationService.checkVarious(MarkerLocationService.java:587) [org.eclipse.m2e.editor.xml_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.editor.xml.internal.MarkerLocationService.addEditorHintMarkers(MarkerLocationService.java:241) [org.eclipse.m2e.editor.xml_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.markers.MarkerUtils.addEditorHintMarkers(MarkerUtils.java:66) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager$4.call(ProjectRegistryManager.java:708) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager$4.call(ProjectRegistryManager.java:1) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.execute(ProjectRegistryManager.java:967) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.readMavenProjectFacade(ProjectRegistryManager.java:699) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:475) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:351) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1$1.call(ProjectRegistryRefreshJob.java:89) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1$1.call(ProjectRegistryRefreshJob.java:1) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1351) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:87) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:1) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1355) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:81) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56) [org.eclipse.core.jobs_3.9.2.v20171030-1027.jar:na]
+2018-04-04 19:42:43,429 [Worker-28] ERROR o.e.m.c.i.p.r.ProjectRegistryRefreshJob - null
+java.lang.NullPointerException: null
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.configureExecutionRequest(ProjectRegistryManager.java:865) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.createExecutionContext(ProjectRegistryManager.java:973) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:496) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:351) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1$1.call(ProjectRegistryRefreshJob.java:89) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1$1.call(ProjectRegistryRefreshJob.java:1) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1351) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:87) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:1) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1355) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:81) ~[na:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56) [org.eclipse.core.jobs_3.9.2.v20171030-1027.jar:na]
+2018-04-04 19:46:06,639 [Worker-7] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-04-04 19:47:11,532 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: org.jenkins-ci.main:pom:1.610-SNAPSHOT @ /Users/BlakeSwaidner/Desktop/mp4/jenkins/pom.xml.
+2018-04-04 19:47:12,249 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.jenkins-ci.main:jenkins-core:1.610-SNAPSHOT @ /Users/BlakeSwaidner/Desktop/mp4/jenkins/core/pom.xml.
+2018-04-04 19:47:12,946 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.jenkins-ci.main:jenkins-war:1.610-SNAPSHOT @ /Users/BlakeSwaidner/Desktop/mp4/jenkins/war/pom.xml.
+2018-04-04 19:47:13,592 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.jenkins-ci.main:jenkins-test-harness:1.610-SNAPSHOT @ /Users/BlakeSwaidner/Desktop/mp4/jenkins/test/pom.xml.
+2018-04-04 19:47:13,872 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.jenkins-ci.main:cli:1.610-SNAPSHOT @ /Users/BlakeSwaidner/Desktop/mp4/jenkins/cli/pom.xml.
+2018-04-04 19:47:14,001 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: org.jenkins-ci.plugins:plugin:1.610-SNAPSHOT @ /Users/BlakeSwaidner/Desktop/mp4/jenkins/plugins/pom.xml.
+2018-04-04 19:47:16,785 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /cli/src/main/java
+2018-04-04 19:47:16,786 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /cli/src/main/resources
+2018-04-04 19:47:16,786 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /cli/src/filter/resources
+2018-04-04 19:47:16,786 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /cli/src/test/java
+2018-04-04 19:47:16,787 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /cli/src/test/resources
+2018-04-04 19:47:17,878 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /jenkins-core/src/main/java
+2018-04-04 19:47:17,878 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /jenkins-core/src/main/resources
+2018-04-04 19:47:18,443 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /jenkins-core/src/filter/resources
+2018-04-04 19:47:18,445 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /jenkins-core/src/test/java
+2018-04-04 19:47:18,446 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /jenkins-core/src/test/resources
+2018-04-04 19:47:18,742 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /jenkins-war/src/main/java
+2018-04-04 19:47:18,742 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /jenkins-war/src/test/java
+2018-04-04 19:47:18,985 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /jenkins-test-harness/src/main/java
+2018-04-04 19:47:18,985 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /jenkins-test-harness/src/main/resources
+2018-04-04 19:47:18,988 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /jenkins-test-harness/src/test/java
+2018-04-04 19:47:18,988 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /jenkins-test-harness/src/test/resources
+2018-04-04 19:47:19,426 [Worker-2] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 6 project(s) in 14 sec
+2018-04-04 19:47:19,847 [Worker-12] INFO  o.e.m.i.discovery.MavenDiscovery - No lifecyle mapping found at jar:file:/var/folders/ky/t8fwl27s3zbdrvgj75vdjdth0000gn/T/RemoteBundleDiscoveryStrategy2388723367079673771.tmp/org.eclipse.m2e.discovery.oss_catalog_1.6.jar_995933512882192020.jar!/lifecycle%2Forg.eclipse.m2e.discovery.lifecyclemapping.m2e-egit.xml
+2018-04-04 19:47:19,852 [Worker-12] WARN  o.e.m.i.discovery.MavenDiscovery - CatalogItem org.eclipse.m2e.discovery.lifecyclemapping.m2e-egit does not contain lifecycle mapping metadata
+2018-04-04 19:47:19,874 [Worker-12] INFO  o.e.m.i.discovery.MavenDiscovery - No lifecyle mapping found at jar:file:/var/folders/ky/t8fwl27s3zbdrvgj75vdjdth0000gn/T/RemoteBundleDiscoveryStrategy2388723367079673771.tmp/org.eclipse.m2e.discovery.oss_catalog_1.6.jar_995933512882192020.jar!/lifecycle%2Forg.eclipse.m2e.discovery.lifecyclemapping.m2e-subversive.xml
+2018-04-04 19:47:19,875 [Worker-12] WARN  o.e.m.i.discovery.MavenDiscovery - CatalogItem org.eclipse.m2e.discovery.lifecyclemapping.m2e-subversive does not contain lifecycle mapping metadata
+2018-04-04 19:47:23,025 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Maven Version: 3.3.9
+2018-04-04 19:47:23,062 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - JDK Version: 1.8.0_66 normalized as: 1.8.0-66
+2018-04-04 19:47:23,065 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - OS Info: Arch: x86_64 Family: mac Name: mac os x Version: 10.12.6
+2018-04-04 19:47:23,204 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Setting property 'now' to '04/04/2018 23:47 GMT'.
+2018-04-04 19:47:23,207 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Setting property 'build.version' to '1.610-SNAPSHOT (private-04/04/2018 23:47 GMT-BlakeSwaidner)'.
+2018-04-04 19:47:23,503 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-04 19:47:23,515 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7 resources
+2018-04-04 19:47:23,536 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-04-04 19:47:23,554 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-04 19:47:23,555 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2018-04-04 19:47:44,394 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Maven Version: 3.3.9
+2018-04-04 19:47:44,406 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - JDK Version: 1.8.0_66 normalized as: 1.8.0-66
+2018-04-04 19:47:44,411 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - OS Info: Arch: x86_64 Family: mac Name: mac os x Version: 10.12.6
+2018-04-04 19:47:44,522 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Setting property 'now' to '04/04/2018 23:47 GMT'.
+2018-04-04 19:47:44,525 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Setting property 'build.version' to '1.610-SNAPSHOT (private-04/04/2018 23:47 GMT-BlakeSwaidner)'.
+2018-04-04 19:47:45,755 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using Antlr grammar: /Users/BlakeSwaidner/Desktop/mp4/jenkins/core/src/main/grammar/crontab.g
+2018-04-04 19:47:45,756 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - The grammar is already generated.
+2018-04-04 19:47:45,777 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using Antlr grammar: /Users/BlakeSwaidner/Desktop/mp4/jenkins/core/src/main/grammar/labelExpr.g
+2018-04-04 19:47:45,777 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - The grammar is already generated.
+2018-04-04 19:47:46,980 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-04 19:47:47,041 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7931 resources
+2018-04-04 19:47:52,279 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2018-04-04 19:47:52,291 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2018-04-04 19:47:52,293 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2018-04-04 19:47:52,353 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-04 19:47:52,354 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2018-04-04 19:47:55,393 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Maven Version: 3.3.9
+2018-04-04 19:47:55,394 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - JDK Version: 1.8.0_66 normalized as: 1.8.0-66
+2018-04-04 19:47:55,394 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - OS Info: Arch: x86_64 Family: mac Name: mac os x Version: 10.12.6
+2018-04-04 19:47:55,395 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Setting property 'now' to '04/04/2018 23:47 GMT'.
+2018-04-04 19:47:55,397 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Setting property 'build.version' to '1.610-SNAPSHOT (private-04/04/2018 23:47 GMT-BlakeSwaidner)'.
+2018-04-04 19:47:55,401 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-04 19:47:55,401 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/BlakeSwaidner/Desktop/mp4/jenkins/war/src/main/resources
+2018-04-04 19:47:55,401 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/BlakeSwaidner/Desktop/mp4/jenkins/war/src/filter/resources
+2018-04-04 19:47:55,402 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-04 19:47:55,402 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/BlakeSwaidner/Desktop/mp4/jenkins/war/src/test/resources
+2018-04-04 19:47:58,329 [Worker-0] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2018-04-04 19:47:58,334 [Worker-0] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2018-04-04 19:47:59,315 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Maven Version: 3.3.9
+2018-04-04 19:47:59,316 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - JDK Version: 1.8.0_66 normalized as: 1.8.0-66
+2018-04-04 19:47:59,316 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - OS Info: Arch: x86_64 Family: mac Name: mac os x Version: 10.12.6
+2018-04-04 19:47:59,318 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Setting property 'now' to '04/04/2018 23:47 GMT'.
+2018-04-04 19:47:59,319 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Setting property 'build.version' to '1.610-SNAPSHOT (private-04/04/2018 23:47 GMT-BlakeSwaidner)'.
+2018-04-04 19:47:59,324 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-04 19:47:59,325 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 22 resources
+2018-04-04 19:47:59,503 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/BlakeSwaidner/Desktop/mp4/jenkins/test/src/filter/resources
+2018-04-04 19:47:59,505 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-04 19:47:59,508 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 108 resources
+2018-04-04 19:48:20,859 [Worker-0] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-04-04 19:48:24,630 [Worker-0] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2018-04-04 19:48:33,779 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.jenkins-ci.main:cli:1.610-SNAPSHOT @ /Users/BlakeSwaidner/Desktop/mp4/jenkins/cli/pom.xml.
+2018-04-04 19:48:33,935 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: org.jenkins-ci.plugins:plugin:1.610-SNAPSHOT @ /Users/BlakeSwaidner/Desktop/mp4/jenkins/plugins/pom.xml.
+2018-04-04 19:48:35,597 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.jenkins-ci.main:jenkins-core:1.610-SNAPSHOT @ /Users/BlakeSwaidner/Desktop/mp4/jenkins/core/pom.xml.
+2018-04-04 19:48:35,713 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: org.jenkins-ci.main:pom:1.610-SNAPSHOT @ /Users/BlakeSwaidner/Desktop/mp4/jenkins/pom.xml.
+2018-04-04 19:48:35,830 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.jenkins-ci.main:jenkins-test-harness:1.610-SNAPSHOT @ /Users/BlakeSwaidner/Desktop/mp4/jenkins/test/pom.xml.
+2018-04-04 19:48:36,615 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.jenkins-ci.main:jenkins-war:1.610-SNAPSHOT @ /Users/BlakeSwaidner/Desktop/mp4/jenkins/war/pom.xml.
+2018-04-04 19:48:38,337 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /Users/BlakeSwaidner/Desktop/mp4/jenkins/cli/target/generated-sources/localizer added.
+2018-04-04 19:48:38,420 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /cli/src/main/java
+2018-04-04 19:48:43,577 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /cli/target/generated-sources/localizer
+2018-04-04 19:48:43,577 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /cli/src/main/resources
+2018-04-04 19:48:43,579 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /cli/src/filter/resources
+2018-04-04 19:48:43,579 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /cli/src/test/java
+2018-04-04 19:48:43,580 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /cli/src/test/resources
+2018-04-04 19:48:43,962 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /Users/BlakeSwaidner/Desktop/mp4/jenkins/core/target/generated-sources/antlr added.
+2018-04-04 19:48:43,962 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /Users/BlakeSwaidner/Desktop/mp4/jenkins/core/target/generated-sources/localizer added.
+2018-04-04 19:48:43,962 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /Users/BlakeSwaidner/Desktop/mp4/jenkins/core/target/generated-sources/taglib-interface added.
+2018-04-04 19:48:44,027 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /jenkins-core/src/main/java
+2018-04-04 19:48:44,030 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /jenkins-core/target/generated-sources/antlr
+2018-04-04 19:48:44,034 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /jenkins-core/target/generated-sources/localizer
+2018-04-04 19:48:44,038 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /jenkins-core/target/generated-sources/taglib-interface
+2018-04-04 19:48:44,039 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /jenkins-core/src/main/resources
+2018-04-04 19:48:44,256 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /jenkins-core/src/filter/resources
+2018-04-04 19:48:44,259 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /jenkins-core/src/test/java
+2018-04-04 19:48:44,259 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /jenkins-core/src/test/resources
+2018-04-04 19:48:44,849 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /Users/BlakeSwaidner/Desktop/mp4/jenkins/test/target/generated-sources/localizer added.
+2018-04-04 19:48:44,865 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /jenkins-test-harness/src/main/java
+2018-04-04 19:48:44,865 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /jenkins-test-harness/target/generated-sources/localizer
+2018-04-04 19:48:44,865 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /jenkins-test-harness/src/main/resources
+2018-04-04 19:48:44,869 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /jenkins-test-harness/src/test/java
+2018-04-04 19:48:44,869 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /jenkins-test-harness/src/test/resources
+2018-04-04 19:48:46,454 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /Users/BlakeSwaidner/Desktop/mp4/jenkins/war/target/generated-sources/localizer added.
+2018-04-04 19:48:46,457 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /jenkins-war/src/main/java
+2018-04-04 19:48:46,457 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /jenkins-war/target/generated-sources/localizer
+2018-04-04 19:48:46,458 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /jenkins-war/src/test/java
+2018-04-04 19:48:50,843 [Worker-0] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 26 sec
+2018-04-04 19:48:51,861 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Maven Version: 3.3.9
+2018-04-04 19:48:51,870 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - JDK Version: 1.8.0_66 normalized as: 1.8.0-66
+2018-04-04 19:48:51,873 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - OS Info: Arch: x86_64 Family: mac Name: mac os x Version: 10.12.6
+2018-04-04 19:48:51,876 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Setting property 'now' to '04/04/2018 23:48 GMT'.
+2018-04-04 19:48:51,878 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Setting property 'build.version' to '1.610-SNAPSHOT (private-04/04/2018 23:48 GMT-BlakeSwaidner)'.
+2018-04-04 19:48:51,882 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /Users/BlakeSwaidner/Desktop/mp4/jenkins/cli/target/generated-sources/localizer added.
+2018-04-04 19:48:52,039 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-04 19:48:52,047 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7 resources
+2018-04-04 19:48:52,059 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-04-04 19:48:52,070 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-04 19:48:52,070 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2018-04-04 19:49:01,362 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Maven Version: 3.3.9
+2018-04-04 19:49:01,373 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - JDK Version: 1.8.0_66 normalized as: 1.8.0-66
+2018-04-04 19:49:01,375 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - OS Info: Arch: x86_64 Family: mac Name: mac os x Version: 10.12.6
+2018-04-04 19:49:01,381 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Setting property 'now' to '04/04/2018 23:49 GMT'.
+2018-04-04 19:49:01,391 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Setting property 'build.version' to '1.610-SNAPSHOT (private-04/04/2018 23:49 GMT-BlakeSwaidner)'.
+2018-04-04 19:49:01,395 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /Users/BlakeSwaidner/Desktop/mp4/jenkins/core/target/generated-sources/antlr added.
+2018-04-04 19:49:01,395 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /Users/BlakeSwaidner/Desktop/mp4/jenkins/core/target/generated-sources/localizer added.
+2018-04-04 19:49:01,395 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /Users/BlakeSwaidner/Desktop/mp4/jenkins/core/target/generated-sources/taglib-interface added.
+2018-04-04 19:49:02,419 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using Antlr grammar: /Users/BlakeSwaidner/Desktop/mp4/jenkins/core/src/main/grammar/crontab.g
+2018-04-04 19:49:02,419 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - The grammar is already generated.
+2018-04-04 19:49:02,445 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using Antlr grammar: /Users/BlakeSwaidner/Desktop/mp4/jenkins/core/src/main/grammar/labelExpr.g
+2018-04-04 19:49:02,445 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - The grammar is already generated.
+2018-04-04 19:49:04,039 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-04 19:49:04,141 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7931 resources
+2018-04-04 19:49:08,118 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2018-04-04 19:49:08,126 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2018-04-04 19:49:08,126 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2018-04-04 19:49:08,179 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-04 19:49:08,180 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2018-04-04 19:49:10,746 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Maven Version: 3.3.9
+2018-04-04 19:49:10,747 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - JDK Version: 1.8.0_66 normalized as: 1.8.0-66
+2018-04-04 19:49:10,747 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - OS Info: Arch: x86_64 Family: mac Name: mac os x Version: 10.12.6
+2018-04-04 19:49:10,748 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Setting property 'now' to '04/04/2018 23:49 GMT'.
+2018-04-04 19:49:10,749 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Setting property 'build.version' to '1.610-SNAPSHOT (private-04/04/2018 23:49 GMT-BlakeSwaidner)'.
+2018-04-04 19:49:10,750 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /Users/BlakeSwaidner/Desktop/mp4/jenkins/war/target/generated-sources/localizer added.
+2018-04-04 19:49:10,754 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-04 19:49:10,754 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/BlakeSwaidner/Desktop/mp4/jenkins/war/src/main/resources
+2018-04-04 19:49:10,755 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/BlakeSwaidner/Desktop/mp4/jenkins/war/src/filter/resources
+2018-04-04 19:49:10,756 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-04 19:49:10,757 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/BlakeSwaidner/Desktop/mp4/jenkins/war/src/test/resources
+2018-04-04 19:49:13,642 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Maven Version: 3.3.9
+2018-04-04 19:49:13,642 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - JDK Version: 1.8.0_66 normalized as: 1.8.0-66
+2018-04-04 19:49:13,643 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - OS Info: Arch: x86_64 Family: mac Name: mac os x Version: 10.12.6
+2018-04-04 19:49:13,645 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Setting property 'now' to '04/04/2018 23:49 GMT'.
+2018-04-04 19:49:13,646 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Setting property 'build.version' to '1.610-SNAPSHOT (private-04/04/2018 23:49 GMT-BlakeSwaidner)'.
+2018-04-04 19:49:13,648 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /Users/BlakeSwaidner/Desktop/mp4/jenkins/test/target/generated-sources/localizer added.
+2018-04-04 19:49:13,650 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-04 19:49:13,650 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 22 resources
+2018-04-04 19:49:13,809 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/BlakeSwaidner/Desktop/mp4/jenkins/test/src/filter/resources
+2018-04-04 19:49:13,810 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-04 19:49:13,813 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 108 resources
+2018-04-04 19:49:40,533 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /Users/BlakeSwaidner/Desktop/mp4/jenkins/core/target/generated-sources/antlr added.
+2018-04-04 19:49:40,535 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /Users/BlakeSwaidner/Desktop/mp4/jenkins/core/target/generated-sources/localizer added.
+2018-04-04 19:49:40,536 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /Users/BlakeSwaidner/Desktop/mp4/jenkins/core/target/generated-sources/taglib-interface added.
+2018-04-04 19:49:40,540 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-04 19:49:40,792 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7931 resources
+2018-04-04 19:49:41,052 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2018-04-04 19:49:41,067 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-04 19:49:41,068 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2018-04-04 20:01:58,699 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /Users/BlakeSwaidner/Desktop/mp4/jenkins/core/target/generated-sources/antlr added.
+2018-04-04 20:01:58,699 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /Users/BlakeSwaidner/Desktop/mp4/jenkins/core/target/generated-sources/localizer added.
+2018-04-04 20:01:58,699 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /Users/BlakeSwaidner/Desktop/mp4/jenkins/core/target/generated-sources/taglib-interface added.
+2018-04-04 20:01:58,701 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-04 20:01:58,701 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-04 20:01:58,701 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-04 20:01:58,702 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-04 20:01:58,703 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2018-04-04 20:03:54,273 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /Users/BlakeSwaidner/Desktop/mp4/jenkins/core/target/generated-sources/antlr added.
+2018-04-04 20:03:54,273 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /Users/BlakeSwaidner/Desktop/mp4/jenkins/core/target/generated-sources/localizer added.
+2018-04-04 20:03:54,273 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /Users/BlakeSwaidner/Desktop/mp4/jenkins/core/target/generated-sources/taglib-interface added.
+2018-04-04 20:03:54,276 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-04 20:03:54,277 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-04 20:03:54,277 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-04 20:03:54,279 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-04 20:03:54,280 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2018-04-04 20:05:09,687 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /Users/BlakeSwaidner/Desktop/mp4/jenkins/core/target/generated-sources/antlr added.
+2018-04-04 20:05:09,688 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /Users/BlakeSwaidner/Desktop/mp4/jenkins/core/target/generated-sources/localizer added.
+2018-04-04 20:05:09,688 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /Users/BlakeSwaidner/Desktop/mp4/jenkins/core/target/generated-sources/taglib-interface added.
+2018-04-04 20:05:09,689 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-04 20:05:09,690 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-04 20:05:09,690 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-04 20:05:09,693 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-04 20:05:09,694 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2018-04-04 20:05:10,855 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /Users/BlakeSwaidner/Desktop/mp4/jenkins/core/target/generated-sources/antlr added.
+2018-04-04 20:05:10,855 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /Users/BlakeSwaidner/Desktop/mp4/jenkins/core/target/generated-sources/localizer added.
+2018-04-04 20:05:10,855 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /Users/BlakeSwaidner/Desktop/mp4/jenkins/core/target/generated-sources/taglib-interface added.
+2018-04-04 20:05:10,857 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-04 20:05:11,042 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7931 resources
+2018-04-04 20:05:11,230 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2018-04-04 20:05:11,234 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-04 20:05:11,234 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-04 20:05:37,227 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /Users/BlakeSwaidner/Desktop/mp4/jenkins/core/target/generated-sources/antlr added.
+2018-04-04 20:05:37,227 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /Users/BlakeSwaidner/Desktop/mp4/jenkins/core/target/generated-sources/localizer added.
+2018-04-04 20:05:37,227 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /Users/BlakeSwaidner/Desktop/mp4/jenkins/core/target/generated-sources/taglib-interface added.
+2018-04-04 20:05:37,229 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-04 20:05:37,229 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-04 20:05:37,229 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-04 20:05:37,232 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-04 20:05:37,232 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2018-04-04 20:06:20,324 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Maven Version: 3.3.9
+2018-04-04 20:06:20,332 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - JDK Version: 1.8.0_66 normalized as: 1.8.0-66
+2018-04-04 20:06:20,335 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - OS Info: Arch: x86_64 Family: mac Name: mac os x Version: 10.12.6
+2018-04-04 20:06:20,496 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Setting property 'now' to '04/05/2018 00:06 GMT'.
+2018-04-04 20:06:20,498 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Setting property 'build.version' to '1.610-SNAPSHOT (private-04/05/2018 00:06 GMT-BlakeSwaidner)'.
+2018-04-04 20:06:20,500 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /Users/BlakeSwaidner/Desktop/mp4/jenkins/cli/target/generated-sources/localizer added.
+2018-04-04 20:06:20,811 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-04 20:06:20,812 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7 resources
+2018-04-04 20:06:20,829 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-04-04 20:06:20,849 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-04 20:06:20,849 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2018-04-04 20:06:21,155 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /Users/BlakeSwaidner/Desktop/mp4/jenkins/cli/target/generated-sources/localizer added.
+2018-04-04 20:06:21,159 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-04 20:06:21,165 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7 resources
+2018-04-04 20:06:21,166 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-04-04 20:06:21,175 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-04 20:06:21,176 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-04 20:06:30,736 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Maven Version: 3.3.9
+2018-04-04 20:06:30,746 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - JDK Version: 1.8.0_66 normalized as: 1.8.0-66
+2018-04-04 20:06:30,749 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - OS Info: Arch: x86_64 Family: mac Name: mac os x Version: 10.12.6
+2018-04-04 20:06:30,815 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Setting property 'now' to '04/05/2018 00:06 GMT'.
+2018-04-04 20:06:30,816 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Setting property 'build.version' to '1.610-SNAPSHOT (private-04/05/2018 00:06 GMT-BlakeSwaidner)'.
+2018-04-04 20:06:30,818 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /Users/BlakeSwaidner/Desktop/mp4/jenkins/core/target/generated-sources/antlr added.
+2018-04-04 20:06:30,819 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /Users/BlakeSwaidner/Desktop/mp4/jenkins/core/target/generated-sources/localizer added.
+2018-04-04 20:06:30,819 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /Users/BlakeSwaidner/Desktop/mp4/jenkins/core/target/generated-sources/taglib-interface added.
+2018-04-04 20:06:31,825 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Using Antlr grammar: /Users/BlakeSwaidner/Desktop/mp4/jenkins/core/src/main/grammar/crontab.g
+2018-04-04 20:06:31,826 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - The grammar is already generated.
+2018-04-04 20:06:31,847 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Using Antlr grammar: /Users/BlakeSwaidner/Desktop/mp4/jenkins/core/src/main/grammar/labelExpr.g
+2018-04-04 20:06:31,847 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - The grammar is already generated.
+2018-04-04 20:06:33,183 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-04 20:06:33,242 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7931 resources
+2018-04-04 20:06:37,139 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2018-04-04 20:06:37,146 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2018-04-04 20:06:37,147 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2018-04-04 20:06:37,196 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-04 20:06:37,196 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2018-04-04 20:06:39,098 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Maven Version: 3.3.9
+2018-04-04 20:06:39,099 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - JDK Version: 1.8.0_66 normalized as: 1.8.0-66
+2018-04-04 20:06:39,099 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - OS Info: Arch: x86_64 Family: mac Name: mac os x Version: 10.12.6
+2018-04-04 20:06:39,100 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Setting property 'now' to '04/05/2018 00:06 GMT'.
+2018-04-04 20:06:39,106 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Setting property 'build.version' to '1.610-SNAPSHOT (private-04/05/2018 00:06 GMT-BlakeSwaidner)'.
+2018-04-04 20:06:39,108 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /Users/BlakeSwaidner/Desktop/mp4/jenkins/war/target/generated-sources/localizer added.
+2018-04-04 20:06:39,110 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-04 20:06:39,110 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/BlakeSwaidner/Desktop/mp4/jenkins/war/src/main/resources
+2018-04-04 20:06:39,111 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/BlakeSwaidner/Desktop/mp4/jenkins/war/src/filter/resources
+2018-04-04 20:06:39,112 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-04 20:06:39,112 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/BlakeSwaidner/Desktop/mp4/jenkins/war/src/test/resources
+2018-04-04 20:06:41,668 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Maven Version: 3.3.9
+2018-04-04 20:06:41,668 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - JDK Version: 1.8.0_66 normalized as: 1.8.0-66
+2018-04-04 20:06:41,668 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - OS Info: Arch: x86_64 Family: mac Name: mac os x Version: 10.12.6
+2018-04-04 20:06:41,670 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Setting property 'now' to '04/05/2018 00:06 GMT'.
+2018-04-04 20:06:41,671 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Setting property 'build.version' to '1.610-SNAPSHOT (private-04/05/2018 00:06 GMT-BlakeSwaidner)'.
+2018-04-04 20:06:41,673 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /Users/BlakeSwaidner/Desktop/mp4/jenkins/test/target/generated-sources/localizer added.
+2018-04-04 20:06:41,675 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-04 20:06:41,675 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 22 resources
+2018-04-04 20:06:41,857 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/BlakeSwaidner/Desktop/mp4/jenkins/test/src/filter/resources
+2018-04-04 20:06:41,859 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-04 20:06:41,861 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 108 resources
+2018-04-04 20:07:40,865 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /Users/BlakeSwaidner/Desktop/mp4/jenkins/core/target/generated-sources/antlr added.
+2018-04-04 20:07:40,866 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /Users/BlakeSwaidner/Desktop/mp4/jenkins/core/target/generated-sources/localizer added.
+2018-04-04 20:07:40,866 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /Users/BlakeSwaidner/Desktop/mp4/jenkins/core/target/generated-sources/taglib-interface added.
+2018-04-04 20:07:40,867 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-04 20:07:41,090 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7931 resources
+2018-04-04 20:07:41,297 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2018-04-04 20:07:41,311 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-04 20:07:41,313 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2018-04-04 20:07:52,611 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /Users/BlakeSwaidner/Desktop/mp4/jenkins/core/target/generated-sources/antlr added.
+2018-04-04 20:07:52,611 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /Users/BlakeSwaidner/Desktop/mp4/jenkins/core/target/generated-sources/localizer added.
+2018-04-04 20:07:52,611 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /Users/BlakeSwaidner/Desktop/mp4/jenkins/core/target/generated-sources/taglib-interface added.
+2018-04-04 20:07:52,614 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-04 20:07:52,807 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7931 resources
+2018-04-04 20:07:53,023 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2018-04-04 20:07:53,024 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-04 20:07:53,025 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-04 20:08:12,755 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /Users/BlakeSwaidner/Desktop/mp4/jenkins/core/target/generated-sources/antlr added.
+2018-04-04 20:08:12,755 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /Users/BlakeSwaidner/Desktop/mp4/jenkins/core/target/generated-sources/localizer added.
+2018-04-04 20:08:12,755 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /Users/BlakeSwaidner/Desktop/mp4/jenkins/core/target/generated-sources/taglib-interface added.
+2018-04-04 20:08:12,757 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-04 20:08:12,962 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7931 resources
+2018-04-04 20:08:13,108 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2018-04-04 20:08:13,110 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-04 20:08:13,111 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2018-04-04 20:09:07,402 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /Users/BlakeSwaidner/Desktop/mp4/jenkins/core/target/generated-sources/antlr added.
+2018-04-04 20:09:07,402 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /Users/BlakeSwaidner/Desktop/mp4/jenkins/core/target/generated-sources/localizer added.
+2018-04-04 20:09:07,402 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /Users/BlakeSwaidner/Desktop/mp4/jenkins/core/target/generated-sources/taglib-interface added.
+2018-04-04 20:09:07,404 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-04 20:09:07,545 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7931 resources
+2018-04-04 20:09:07,677 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2018-04-04 20:09:07,679 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-04 20:09:07,680 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2018-04-04 20:09:58,244 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /Users/BlakeSwaidner/Desktop/mp4/jenkins/core/target/generated-sources/antlr added.
+2018-04-04 20:09:58,244 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /Users/BlakeSwaidner/Desktop/mp4/jenkins/core/target/generated-sources/localizer added.
+2018-04-04 20:09:58,244 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /Users/BlakeSwaidner/Desktop/mp4/jenkins/core/target/generated-sources/taglib-interface added.
+2018-04-04 20:09:58,245 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-04 20:09:58,246 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-04 20:09:58,246 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-04 20:09:58,247 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-04 20:09:58,249 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2018-04-04 20:13:56,191 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /Users/BlakeSwaidner/Desktop/mp4/jenkins/core/target/generated-sources/antlr added.
+2018-04-04 20:13:56,191 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /Users/BlakeSwaidner/Desktop/mp4/jenkins/core/target/generated-sources/localizer added.
+2018-04-04 20:13:56,191 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /Users/BlakeSwaidner/Desktop/mp4/jenkins/core/target/generated-sources/taglib-interface added.
+2018-04-04 20:13:56,193 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-04 20:13:56,193 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-04 20:13:56,193 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-04 20:13:56,195 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-04 20:13:56,196 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2018-04-04 20:14:39,047 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /Users/BlakeSwaidner/Desktop/mp4/jenkins/core/target/generated-sources/antlr added.
+2018-04-04 20:14:39,048 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /Users/BlakeSwaidner/Desktop/mp4/jenkins/core/target/generated-sources/localizer added.
+2018-04-04 20:14:39,048 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /Users/BlakeSwaidner/Desktop/mp4/jenkins/core/target/generated-sources/taglib-interface added.
+2018-04-04 20:14:39,052 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-04 20:14:39,052 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-04 20:14:39,056 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-04 20:14:39,058 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-04 20:14:39,059 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2018-04-04 20:15:36,986 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /Users/BlakeSwaidner/Desktop/mp4/jenkins/core/target/generated-sources/antlr added.
+2018-04-04 20:15:36,986 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /Users/BlakeSwaidner/Desktop/mp4/jenkins/core/target/generated-sources/localizer added.
+2018-04-04 20:15:36,986 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /Users/BlakeSwaidner/Desktop/mp4/jenkins/core/target/generated-sources/taglib-interface added.
+2018-04-04 20:15:36,987 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-04 20:15:36,987 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-04 20:15:36,988 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-04 20:15:36,989 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-04 20:15:36,991 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2018-04-04 20:16:18,007 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /Users/BlakeSwaidner/Desktop/mp4/jenkins/core/target/generated-sources/antlr added.
+2018-04-04 20:16:18,008 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /Users/BlakeSwaidner/Desktop/mp4/jenkins/core/target/generated-sources/localizer added.
+2018-04-04 20:16:18,008 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /Users/BlakeSwaidner/Desktop/mp4/jenkins/core/target/generated-sources/taglib-interface added.
+2018-04-04 20:16:18,010 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-04 20:16:18,010 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-04 20:16:18,010 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-04 20:16:18,011 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-04 20:16:18,013 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2018-04-04 20:17:33,924 [Worker-62] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: org.jenkins-ci.plugins:plugin:1.610-SNAPSHOT @ /Users/BlakeSwaidner/Desktop/mp4/jenkins/plugins/pom.xml.
+2018-04-04 20:17:35,213 [Worker-62] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.jenkins-ci.main:jenkins-war:1.610-SNAPSHOT @ /Users/BlakeSwaidner/Desktop/mp4/jenkins/war/pom.xml.
+2018-04-04 20:17:35,355 [Worker-62] ERROR o.e.m.e.x.i.MarkerLocationService - Error checking for schema
+java.lang.NullPointerException: null
+	at org.eclipse.m2e.editor.xml.internal.MarkerLocationService.checkForSchema(MarkerLocationService.java:258) [org.eclipse.m2e.editor.xml_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.editor.xml.internal.MarkerLocationService.addEditorHintMarkers(MarkerLocationService.java:240) [org.eclipse.m2e.editor.xml_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.markers.MarkerUtils.addEditorHintMarkers(MarkerUtils.java:66) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager$4.call(ProjectRegistryManager.java:708) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager$4.call(ProjectRegistryManager.java:1) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.execute(ProjectRegistryManager.java:967) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.readMavenProjectFacade(ProjectRegistryManager.java:699) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:398) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:351) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1$1.call(ProjectRegistryRefreshJob.java:89) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1$1.call(ProjectRegistryRefreshJob.java:1) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1351) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:87) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:1) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1355) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:81) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56) [org.eclipse.core.jobs_3.9.2.v20171030-1027.jar:na]
+2018-04-04 20:17:35,357 [Worker-62] ERROR o.e.m.e.x.i.MarkerLocationService - Error checking for warnings
+java.lang.NullPointerException: null
+	at org.eclipse.m2e.editor.xml.internal.MarkerLocationService.checkVarious(MarkerLocationService.java:587) [org.eclipse.m2e.editor.xml_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.editor.xml.internal.MarkerLocationService.addEditorHintMarkers(MarkerLocationService.java:241) [org.eclipse.m2e.editor.xml_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.markers.MarkerUtils.addEditorHintMarkers(MarkerUtils.java:66) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager$4.call(ProjectRegistryManager.java:708) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager$4.call(ProjectRegistryManager.java:1) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.execute(ProjectRegistryManager.java:967) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.readMavenProjectFacade(ProjectRegistryManager.java:699) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:398) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:351) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1$1.call(ProjectRegistryRefreshJob.java:89) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1$1.call(ProjectRegistryRefreshJob.java:1) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1351) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:87) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:1) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1355) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:81) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56) [org.eclipse.core.jobs_3.9.2.v20171030-1027.jar:na]
+2018-04-04 20:17:36,905 [Worker-61] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration IDStrategyTest references non-existing project jenkins-core.
+org.eclipse.core.runtime.CoreException: Launch configuration IDStrategyTest references non-existing project jenkins-core.
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1702) ~[org.eclipse.jdt.launching_3.9.51.v20171114-1018.jar:na]
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1577) ~[org.eclipse.jdt.launching_3.9.51.v20171114-1018.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:53) [org.eclipse.m2e.jdt_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:38) [org.eclipse.m2e.jdt_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:226) [org.eclipse.debug.core_3.11.0.v20170605-1534.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42) [org.eclipse.equinox.common_3.9.0.v20170207-1454.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:207) [org.eclipse.debug.core_3.11.0.v20170605-1534.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:552) [org.eclipse.debug.core_3.11.0.v20170605-1534.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:425) [org.eclipse.debug.core_3.11.0.v20170605-1534.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:309) [org.eclipse.m2e.jdt_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:335) [org.eclipse.m2e.jdt_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:70) [org.eclipse.m2e.jdt_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:783) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:930) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:98) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:1) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1355) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:81) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56) [org.eclipse.core.jobs_3.9.2.v20171030-1027.jar:na]
+2018-04-04 20:17:36,907 [Worker-61] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration IDStrategyTest references non-existing project jenkins-core.
+org.eclipse.core.runtime.CoreException: Launch configuration IDStrategyTest references non-existing project jenkins-core.
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1702) ~[org.eclipse.jdt.launching_3.9.51.v20171114-1018.jar:na]
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1577) ~[org.eclipse.jdt.launching_3.9.51.v20171114-1018.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:53) [org.eclipse.m2e.jdt_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:38) [org.eclipse.m2e.jdt_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:226) [org.eclipse.debug.core_3.11.0.v20170605-1534.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42) [org.eclipse.equinox.common_3.9.0.v20170207-1454.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:207) [org.eclipse.debug.core_3.11.0.v20170605-1534.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:552) [org.eclipse.debug.core_3.11.0.v20170605-1534.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:425) [org.eclipse.debug.core_3.11.0.v20170605-1534.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:310) [org.eclipse.m2e.jdt_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:335) [org.eclipse.m2e.jdt_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:70) [org.eclipse.m2e.jdt_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:783) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:930) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:98) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:1) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1355) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:81) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56) [org.eclipse.core.jobs_3.9.2.v20171030-1027.jar:na]
+2018-04-04 20:17:36,912 [Worker-61] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration IDStrategyTest references non-existing project jenkins-core.
+org.eclipse.core.runtime.CoreException: Launch configuration IDStrategyTest references non-existing project jenkins-core.
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1702) ~[org.eclipse.jdt.launching_3.9.51.v20171114-1018.jar:na]
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1577) ~[org.eclipse.jdt.launching_3.9.51.v20171114-1018.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:53) [org.eclipse.m2e.jdt_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:38) [org.eclipse.m2e.jdt_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:226) [org.eclipse.debug.core_3.11.0.v20170605-1534.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42) [org.eclipse.equinox.common_3.9.0.v20170207-1454.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:207) [org.eclipse.debug.core_3.11.0.v20170605-1534.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager.launchConfigurationChanged(LaunchManager.java:2166) [org.eclipse.debug.core_3.11.0.v20170605-1534.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.writeNewFile(LaunchConfigurationWorkingCopy.java:384) [org.eclipse.debug.core_3.11.0.v20170605-1534.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave0(LaunchConfigurationWorkingCopy.java:250) [org.eclipse.debug.core_3.11.0.v20170605-1534.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:220) [org.eclipse.debug.core_3.11.0.v20170605-1534.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:173) [org.eclipse.debug.core_3.11.0.v20170605-1534.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:311) [org.eclipse.m2e.jdt_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:335) [org.eclipse.m2e.jdt_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:70) [org.eclipse.m2e.jdt_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:783) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:930) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:98) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:1) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1355) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:81) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56) [org.eclipse.core.jobs_3.9.2.v20171030-1027.jar:na]
+2018-04-04 20:17:55,217 [Worker-61] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: org.jenkins-ci.main:pom:1.610-SNAPSHOT @ /Users/BlakeSwaidner/Desktop/mp4/jenkins/pom.xml.
+2018-04-04 20:17:55,493 [Worker-61] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.jenkins-ci.main:jenkins-core:1.610-SNAPSHOT @ /Users/BlakeSwaidner/Desktop/mp4/jenkins/core/pom.xml.
+2018-04-04 20:17:55,840 [Worker-61] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.jenkins-ci.main:jenkins-war:1.610-SNAPSHOT @ /Users/BlakeSwaidner/Desktop/mp4/jenkins/war/pom.xml.
+2018-04-04 20:17:56,902 [Worker-61] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.jenkins-ci.main:jenkins-test-harness:1.610-SNAPSHOT @ /Users/BlakeSwaidner/Desktop/mp4/jenkins/test/pom.xml.
+2018-04-04 20:17:57,051 [Worker-61] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.jenkins-ci.main:cli:1.610-SNAPSHOT @ /Users/BlakeSwaidner/Desktop/mp4/jenkins/cli/pom.xml.
+2018-04-04 20:17:57,060 [Worker-61] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: org.jenkins-ci.plugins:plugin:1.610-SNAPSHOT @ /Users/BlakeSwaidner/Desktop/mp4/jenkins/plugins/pom.xml.
+2018-04-04 20:17:58,048 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /Users/BlakeSwaidner/Desktop/mp4/jenkins/cli/target/generated-sources/localizer added.
+2018-04-04 20:17:58,089 [Worker-61] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /cli/src/main/java
+2018-04-04 20:17:58,090 [Worker-61] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /cli/target/generated-sources/localizer
+2018-04-04 20:17:58,090 [Worker-61] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /cli/src/main/resources
+2018-04-04 20:17:58,090 [Worker-61] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /cli/src/filter/resources
+2018-04-04 20:17:58,090 [Worker-61] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /cli/src/test/java
+2018-04-04 20:17:58,090 [Worker-61] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /cli/src/test/resources
+2018-04-04 20:17:58,296 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /Users/BlakeSwaidner/Desktop/mp4/jenkins/core/target/generated-sources/antlr added.
+2018-04-04 20:17:58,297 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /Users/BlakeSwaidner/Desktop/mp4/jenkins/core/target/generated-sources/localizer added.
+2018-04-04 20:17:58,297 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /Users/BlakeSwaidner/Desktop/mp4/jenkins/core/target/generated-sources/taglib-interface added.
+2018-04-04 20:17:58,340 [Worker-61] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /jenkins-core/src/main/java
+2018-04-04 20:17:58,341 [Worker-61] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /jenkins-core/target/generated-sources/antlr
+2018-04-04 20:17:58,342 [Worker-61] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /jenkins-core/target/generated-sources/localizer
+2018-04-04 20:17:58,342 [Worker-61] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /jenkins-core/target/generated-sources/taglib-interface
+2018-04-04 20:17:58,342 [Worker-61] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /jenkins-core/src/main/resources
+2018-04-04 20:17:58,746 [Worker-61] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /jenkins-core/src/filter/resources
+2018-04-04 20:17:58,747 [Worker-61] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /jenkins-core/src/test/java
+2018-04-04 20:17:58,748 [Worker-61] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /jenkins-core/src/test/resources
+2018-04-04 20:17:58,887 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /Users/BlakeSwaidner/Desktop/mp4/jenkins/war/target/generated-sources/localizer added.
+2018-04-04 20:17:58,890 [Worker-61] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /jenkins-war/src/main/java
+2018-04-04 20:17:58,890 [Worker-61] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /jenkins-war/target/generated-sources/localizer
+2018-04-04 20:17:58,890 [Worker-61] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /jenkins-war/src/test/java
+2018-04-04 20:17:59,040 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /Users/BlakeSwaidner/Desktop/mp4/jenkins/test/target/generated-sources/localizer added.
+2018-04-04 20:17:59,043 [Worker-61] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /jenkins-test-harness/src/main/java
+2018-04-04 20:17:59,043 [Worker-61] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /jenkins-test-harness/target/generated-sources/localizer
+2018-04-04 20:17:59,043 [Worker-61] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /jenkins-test-harness/src/main/resources
+2018-04-04 20:17:59,045 [Worker-61] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /jenkins-test-harness/src/test/java
+2018-04-04 20:17:59,045 [Worker-61] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /jenkins-test-harness/src/test/resources
+2018-04-04 20:17:59,226 [Worker-61] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 6 project(s) in 6 sec
+2018-04-04 20:18:00,759 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Maven Version: 3.3.9
+2018-04-04 20:18:00,778 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - JDK Version: 1.8.0_66 normalized as: 1.8.0-66
+2018-04-04 20:18:00,783 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - OS Info: Arch: x86_64 Family: mac Name: mac os x Version: 10.12.6
+2018-04-04 20:18:00,801 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Setting property 'now' to '04/05/2018 00:18 GMT'.
+2018-04-04 20:18:00,810 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Setting property 'build.version' to '1.610-SNAPSHOT (private-04/05/2018 00:18 GMT-BlakeSwaidner)'.
+2018-04-04 20:18:00,812 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /Users/BlakeSwaidner/Desktop/mp4/jenkins/cli/target/generated-sources/localizer added.
+2018-04-04 20:18:01,117 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-04 20:18:01,118 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7 resources
+2018-04-04 20:18:01,131 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-04-04 20:18:01,156 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-04 20:18:01,156 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2018-04-04 20:18:10,316 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Maven Version: 3.3.9
+2018-04-04 20:18:10,326 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - JDK Version: 1.8.0_66 normalized as: 1.8.0-66
+2018-04-04 20:18:10,351 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - OS Info: Arch: x86_64 Family: mac Name: mac os x Version: 10.12.6
+2018-04-04 20:18:10,355 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Setting property 'now' to '04/05/2018 00:18 GMT'.
+2018-04-04 20:18:10,357 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Setting property 'build.version' to '1.610-SNAPSHOT (private-04/05/2018 00:18 GMT-BlakeSwaidner)'.
+2018-04-04 20:18:10,368 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /Users/BlakeSwaidner/Desktop/mp4/jenkins/core/target/generated-sources/antlr added.
+2018-04-04 20:18:10,368 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /Users/BlakeSwaidner/Desktop/mp4/jenkins/core/target/generated-sources/localizer added.
+2018-04-04 20:18:10,368 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /Users/BlakeSwaidner/Desktop/mp4/jenkins/core/target/generated-sources/taglib-interface added.
+2018-04-04 20:18:11,978 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Using Antlr grammar: /Users/BlakeSwaidner/Desktop/mp4/jenkins/core/src/main/grammar/crontab.g
+2018-04-04 20:18:11,978 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - The grammar is already generated.
+2018-04-04 20:18:12,012 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Using Antlr grammar: /Users/BlakeSwaidner/Desktop/mp4/jenkins/core/src/main/grammar/labelExpr.g
+2018-04-04 20:18:12,013 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - The grammar is already generated.
+2018-04-04 20:18:13,369 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-04 20:18:13,405 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7931 resources
+2018-04-04 20:18:17,423 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2018-04-04 20:18:17,431 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2018-04-04 20:18:17,432 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2018-04-04 20:18:17,614 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-04 20:18:17,616 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2018-04-04 20:18:19,628 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Maven Version: 3.3.9
+2018-04-04 20:18:19,628 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - JDK Version: 1.8.0_66 normalized as: 1.8.0-66
+2018-04-04 20:18:19,628 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - OS Info: Arch: x86_64 Family: mac Name: mac os x Version: 10.12.6
+2018-04-04 20:18:19,629 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Setting property 'now' to '04/05/2018 00:18 GMT'.
+2018-04-04 20:18:19,630 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Setting property 'build.version' to '1.610-SNAPSHOT (private-04/05/2018 00:18 GMT-BlakeSwaidner)'.
+2018-04-04 20:18:19,632 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /Users/BlakeSwaidner/Desktop/mp4/jenkins/war/target/generated-sources/localizer added.
+2018-04-04 20:18:19,633 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-04 20:18:19,633 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/BlakeSwaidner/Desktop/mp4/jenkins/war/src/main/resources
+2018-04-04 20:18:19,633 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/BlakeSwaidner/Desktop/mp4/jenkins/war/src/filter/resources
+2018-04-04 20:18:19,635 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-04 20:18:19,635 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/BlakeSwaidner/Desktop/mp4/jenkins/war/src/test/resources
+2018-04-04 20:18:22,590 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Maven Version: 3.3.9
+2018-04-04 20:18:22,590 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - JDK Version: 1.8.0_66 normalized as: 1.8.0-66
+2018-04-04 20:18:22,590 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - OS Info: Arch: x86_64 Family: mac Name: mac os x Version: 10.12.6
+2018-04-04 20:18:22,591 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Setting property 'now' to '04/05/2018 00:18 GMT'.
+2018-04-04 20:18:22,592 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Setting property 'build.version' to '1.610-SNAPSHOT (private-04/05/2018 00:18 GMT-BlakeSwaidner)'.
+2018-04-04 20:18:22,594 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /Users/BlakeSwaidner/Desktop/mp4/jenkins/test/target/generated-sources/localizer added.
+2018-04-04 20:18:22,595 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-04 20:18:22,596 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 22 resources
+2018-04-04 20:18:22,777 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/BlakeSwaidner/Desktop/mp4/jenkins/test/src/filter/resources
+2018-04-04 20:18:22,779 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-04 20:18:22,780 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 108 resources
+2018-04-04 20:21:11,237 [Worker-64] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.jenkins-ci.org/public/org/jvnet/hudson/htmlunit-core-js/2.6-hudson-1/htmlunit-core-js-2.6-hudson-1-sources.jar
+2018-04-04 20:21:11,470 [Worker-64] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.jenkins-ci.org/public/org/jvnet/hudson/htmlunit-core-js/2.6-hudson-1/htmlunit-core-js-2.6-hudson-1-sources.jar
+2018-04-04 20:21:11,491 [Worker-64] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.jvnet.hudson:htmlunit-core-js:2.6-hudson-1
+2018-04-04 20:21:11,806 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /Users/BlakeSwaidner/Desktop/mp4/jenkins/test/target/generated-sources/localizer added.
+2018-04-04 20:21:11,807 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-04 20:21:11,808 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-04 20:21:11,808 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/BlakeSwaidner/Desktop/mp4/jenkins/test/src/filter/resources
+2018-04-04 20:21:11,809 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-04 20:21:11,809 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-04 20:22:19,922 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /Users/BlakeSwaidner/Desktop/mp4/jenkins/core/target/generated-sources/antlr added.
+2018-04-04 20:22:19,922 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /Users/BlakeSwaidner/Desktop/mp4/jenkins/core/target/generated-sources/localizer added.
+2018-04-04 20:22:19,922 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /Users/BlakeSwaidner/Desktop/mp4/jenkins/core/target/generated-sources/taglib-interface added.
+2018-04-04 20:22:19,922 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-04 20:22:19,923 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-04 20:22:19,923 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-04 20:22:19,924 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-04 20:22:19,925 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
