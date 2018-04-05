@@ -18,7 +18,7 @@ public class IDStrategyTest {
 	@Test
 	public void outputTest() {
 		 IdStrategy caseInsensitive = new CaseInsensitive();
-		 assertTrue(caseInsensitive.idFromFilename("~/hello") == "~hello");
+		 assertTrue(caseInsensitive.idFromFilename("~hello") == "~hello");
 	}
 	
 }
